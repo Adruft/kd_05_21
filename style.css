@@ -2,6 +2,7 @@ body {
     font-family:sans-serif;
     max-width: 1280px;
     font-size: 20px;
+    background-color: lightcyan;
   }
 
   .kaka{
@@ -50,10 +51,7 @@ left: 10%;
   position: absolute;
   left: 10%;
   top: 1%;
-}
-
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  background-color: white;
 }
 
 .container {
@@ -86,6 +84,7 @@ left: 10%;
   position: absolute;
   left: 60%;
   top: 1%;
+  background-color: white;
 }
 
 .wg{
@@ -99,6 +98,7 @@ left: 10%;
   position: absolute;
   left: 10%;
   top: 60%;
+  background-color: white;
 }
 
 .link{
@@ -113,6 +113,7 @@ left: 10%;
   position: absolute;
   left: 60%;
   top: 60%;
+  background-color: white;
 }
 
 .dev{
@@ -122,6 +123,8 @@ left: 10%;
   position: absolute;
   left: 10%;
   top: 120%;
+  background-color: white;
+
 }
 
 .IT{
@@ -131,6 +134,7 @@ left: 10%;
   position: absolute;
   left: 60%;
   top: 120%;
+  background-color: white;
 }
 
 .dvil{
@@ -140,6 +144,7 @@ left: 10%;
   position: absolute;
   left: 10%;
   top: 180%;
+  background-color: white;
 }
 
 .blu{
@@ -148,6 +153,7 @@ left: 10%;
   width: 30%;
   position: absolute;
   left: 60%;
+  background-color: white;
   top: 180%;
 }
 
@@ -157,6 +163,7 @@ left: 10%;
   width: 30%;
   position: absolute;
   left: 10%;
+  background-color: white;
   top: 240%;
 }
 
